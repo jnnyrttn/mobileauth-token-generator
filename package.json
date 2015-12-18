@@ -1,0 +1,23 @@
+{
+  "name": "mobileauth-token-generator",
+  "version": "1.0.0",
+  "description": "Generates tokens for Steam Mobile autenticator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnnyrttn/mobileauth-token-generator.git"
+  },
+  "author": "Paweł PIetrzykowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnnyrttn/mobileauth-token-generator/issues"
+  },
+  "homepage": "https://github.com/jnnyrttn/mobileauth-token-generator#readme",
+  "dependencies": {
+    "nconf": "^0.8.2",
+    "q": "^1.4.1"
+  }
+}
